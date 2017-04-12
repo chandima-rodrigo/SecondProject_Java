@@ -1,2 +1,2 @@
 # SecondProject_Java
-Simple PSVM 
+Simple Hello world project
